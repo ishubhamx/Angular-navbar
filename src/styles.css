@@ -1,1 +1,8 @@
 /* Add application styles & imports to this file! */
+*{
+  box-sizing: border-box;
+}
+body, html{
+  margin: 0px;
+  padding:0px;
+}
